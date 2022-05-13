@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792136130082",
+    "project_id": "e-lapor-b22ad",
+    "storage_bucket": "e-lapor-b22ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792136130082:android:2f5e35d5b710ade5d0b47b",
+        "android_client_info": {
+          "package_name": "com.example.e_lapor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792136130082-150mbmghu3jv26u68pgulvd5hn6b70od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaXWLa_2gvoSZPLHUnC6v40d76P0GGOJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792136130082-150mbmghu3jv26u68pgulvd5hn6b70od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

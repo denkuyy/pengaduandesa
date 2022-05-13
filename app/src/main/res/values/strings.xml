@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">E-Lapor</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">SELESAI</string>
+
+    <string name="slide_1_title">Komplain Mahasiswa</string>
+    <string name="slide_1_desc">Sampaikan pengaduan dan aspirasi dalam aplikasi E-Complaint ke pihak terkait</string>
+
+    <string name="slide_2_title">Daftar Komplain</string>
+    <string name="slide_2_desc">Melihat semua daftar pengaduan mahasiswa dalam satu aplikasi</string>
+
+    <string name="slide_3_title">Keamanan dan Privasi</string>
+    <string name="slide_3_desc">Menjamin keamanan dan privasi pengguna yang menyampaikan aspirasi atau pengaduan</string>
+
+    <string-array name="bidang">
+        <item>Infrastrukstur</item>
+        <item>Bantuan Sosial</item>
+    </string-array>
+</resources>
